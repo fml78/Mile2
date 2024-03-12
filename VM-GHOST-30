@@ -2,3 +2,6 @@ sudo dpkg-reconfigure keyboard-configuration
 sudo apt -y install manpages-es
 sudo mandb
 reboot
+
+
+#@|/\
